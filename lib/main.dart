@@ -117,8 +117,8 @@ void main() {
     title: 'Shopping App',
     home: ShoppingList(
       products: [
-        Product(name: 'Eggs'),
-        Product(name: 'Flour'),
+        Product(name: 'Telur'),
+        Product(name: 'Tepung'),
         Product(name: 'Chocolate'),
       ],
     ),
